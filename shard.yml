@@ -1,0 +1,13 @@
+name: minter-test
+version: 0.1.0
+
+authors:
+  - Wout <hi@wout.codes>
+
+targets:
+  minter-test:
+    main: src/minter-test.cr
+
+crystal: 1.6.0
+
+license: MIT
